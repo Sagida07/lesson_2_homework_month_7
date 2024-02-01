@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson_2_homework_month_7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alarm">Будильник</string>
+    <string name="timer">Таймер</string>
+    <string name="stopwatch">Секундомер</string>
+    <string name="add_alarm">ДОБАВИТЬ БУДИЛЬНИК</string>
+    <string name="start">Старт</string>
+    <string name="reset">Круг</string>
+</resources>
